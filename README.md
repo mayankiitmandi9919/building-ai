@@ -2,7 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Automated Smart Waste Management System
+# Cat lying
 
 Final project for the Building AI course
 
